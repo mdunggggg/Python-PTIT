@@ -1,0 +1,1 @@
+{"name":"Local: PYKT081","url":"c:\\Users\\dungm\\OneDrive\\Máy tính\\Python\\PYKT081.py","tests":[{"id":1698335088847,"input":"2\n192.168.1.1\n256.255.255.255","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dungm\\OneDrive\\Máy tính\\Python\\PYKT081.py","group":"local","local":true}
